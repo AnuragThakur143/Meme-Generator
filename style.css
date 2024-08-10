@@ -1,0 +1,45 @@
+body {
+    width: 100%;
+    height: 1000px;
+    background: linear-gradient(45deg, #67697C, #253D5B);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    margin: 50px;
+    font-family: Verdana;
+    font-weight: bolder;
+    text-align: center;
+    color: #FAA6FF;
+    text-decoration: underline wheat;
+}
+
+.meme-gen {
+    padding: 20px;
+    margin: 20px auto;
+    width: 400px;
+    height: 250px;
+    font-family: sans-serif;
+    background-color: rgba(51, 146, 214, 0.632);
+}
+
+.Select span {
+    color: yellow;
+
+}
+
+.meme-gen label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.meme-gen input{
+    width: 350px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+#meme {
+    width: 100%;
+}
